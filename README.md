@@ -1,5 +1,5 @@
 
-ggerp: Graphical exploration of ERP data with R
+ggerp: Visualization of Event-Related Brain Potentials with ggplot2
 -----------------------------------------------
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
